@@ -9,7 +9,8 @@ Sou Ricardo Miranda Santos, Cientista de Dados, Desenvolvedor, Scrum Master, Asp
 
 * Graduação em Ciências da Computação pela UNIP.
 * Introduction to the Internet of Things and Embedded Systems pela Universidade da California - Irvine.
-* 
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
-* Curso de Operações Espaciais pela Força Aérea do Canadá.
+* IBM Data Science Professional Certificate (em andamento)
+* Data Scientist with Python - Datacamp (em andamento)
+
+### Badges
+
