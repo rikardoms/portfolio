@@ -18,5 +18,5 @@ Sou Ricardo Miranda Santos, Cientista de Dados, Desenvolvedor, Scrum Master, Asp
 ### Badges
 
 <p align="center">
-  <img src="https://images.youracclaim.com/size/340x340/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python%2B101%2BData%2BScience.png" >
+  <img width='50' height='50' src="https://images.youracclaim.com/size/340x340/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python%2B101%2BData%2BScience.png" >
 </p>
