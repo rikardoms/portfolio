@@ -16,7 +16,7 @@ Sou Ricardo Miranda Santos, Cientista de Dados, Desenvolvedor, Scrum Master, Asp
 
 
 ### Badges
-#### DataCamp - Learning Track: Data Science with Python (7 cursos concluídos, 1 em andamento, 15 cursos na fila)
+#### DataCamp - Learning Track: Data Science with Python (8 cursos concluídos, 1 em andamento, 14 cursos na fila)
 <p align="center">
  <img width='120' height='120' alt="Introduction to Python" src="https://assets.datacamp.com/production/course_735/shields/original/shield_image_course_735_20200102-1-iowrb6?1577980473">
   <img  width='120' height='120' alt="Intermediate Python" src="https://assets.datacamp.com/production/course_799/shields/original/shield_image_course_799_20200228-1-119xpm0?1582886778">
