@@ -25,6 +25,7 @@ Sou Ricardo Miranda Santos, Cientista de Dados, Desenvolvedor, Scrum Master, Asp
   <img width='120' height='120' alt="Introduction to Data Visualization with Matplotlib" src="https://assets.datacamp.com/production/course_13706/shields/original/shield_image_course_13706_20200109-1-1lqzun3?1578581629">
 <img  width='120' height='120' alt="Introduction to Data Visualization with Seaborn" src="https://assets.datacamp.com/production/course_15192/shields/original/shield_image_course_15192_20200223-1-suedko?1582486401">
 <img width='120' height='120' alt="Python Data Science Toolbox (Part 1)" src="https://assets.datacamp.com/production/course_1532/shields/original/shield_image_course_1532_20190827-1-sv9huy?1566934931">
+<img  width='120' height='120' alt="Python Data Science Toolbox (Part 2)" src="https://assets.datacamp.com/production/course_1531/shields/original/shield_image_course_1531_20200205-1-1aojucr?1580930825">
 </p>
 
 #### IBM Cognitive Class - Learning Path: Applied Data Science with Python (em andamento, 2 cursos concluídos, 1 em andamento, 0 cursos na fila)
