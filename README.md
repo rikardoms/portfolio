@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/Ricardo%20Miranda%20Santos-Data%20Scientist-red.svg)](https://www.linkedin.com/in/ricardo-miranda-santos-en/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
-# portfolio
+# Portfolio
 Repositório para armazenar as informações do portfólio dos projetos de Ricardo Miranda Santos
 
 
@@ -34,7 +34,7 @@ Sou Ricardo Miranda Santos, Cientista de Dados, Desenvolvedor, Scrum Master, Asp
   <img width='120' height='120' src="https://images.youracclaim.com/size/340x340/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" >
 </p>
 
-#### IBM Data Science Professional Certificate (3 cursos concluídos, 0 em andamento, 6 cursos na fila)
+#### IBM Data Science Professional Certificate (3 cursos concluídos, 1 em andamento, 4 cursos na fila)
 <p align="center">
   <img width='120' height='120' src="https://images.youracclaim.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive%2BClass%2B-%2BWhat%2Bis%2BData%2BScience.png" >
   <img width='120' height='120' src="https://images.youracclaim.com/size/340x340/images/134d257e-8053-4b7b-a421-dff7135a19d6/Cognitive%2BClass%2B-%2BOpn%2BSource%2BTools%2Bfor%2BData%2BSci.png" >
