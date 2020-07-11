@@ -20,7 +20,7 @@ Sou Ricardo Miranda Santos, Cientista de Dados, Desenvolvedor, Scrum Master, Asp
 ### Projetos
 #### Binary Options automatic Cataloger - BOC
 * Catalogar automático de opções Binárias para operação day trade na corretora IQ Option. Com apenas 3 clicks cataloga até 37 estratégias diferentes.
-Link: <a href="https://bocweb.herokuapp.com"> Acesse aqui </a>
+Link: <a href="https://bocweb.herokuapp.com" target="_blank"> Acesse aqui </a>
 
 ### Badges
 #### DataCamp - Learning Track: Data Science with Python (8 cursos concluídos, 1 em andamento, 14 cursos na fila)
