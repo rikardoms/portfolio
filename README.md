@@ -17,6 +17,10 @@ Sou Ricardo Miranda Santos, Cientista de Dados, Desenvolvedor, Scrum Master, Asp
 * Graduação em Ciências da Computação pela UNIP.
 * Introduction to the Internet of Things and Embedded Systems pela Universidade da California - Irvine.
 
+### Projetos
+#### Binary Options automatic Cataloger - BOC
+* Catalogar automático de opções Binárias para operação day trade na corretora IQ Option. Com apenas 3 clicks cataloga até 37 estratégias diferentes.
+Link: <a href="https://bocweb.herokuapp.com"> Acesse aqui </a>
 
 ### Badges
 #### DataCamp - Learning Track: Data Science with Python (8 cursos concluídos, 1 em andamento, 14 cursos na fila)
